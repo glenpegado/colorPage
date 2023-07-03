@@ -292,7 +292,7 @@ input[type='color'] {
     column-gap: 2rem;
     align-items: center;
   }
-  color-form {
+  .color-form {
     height: 40px;
   }
 }
